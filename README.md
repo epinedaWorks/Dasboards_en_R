@@ -5,5 +5,11 @@ Este proyecto ha sido realiado en Amazon Web services, con Rstudio
 
 Ingresar por medio del siguiente link:  
 
-http://ec2-54-234-91-151.compute-1.amazonaws.com/shiny/rstudio/Dashboard_ViolenciaGT/
+Actualmente está dando un error de inicio, por lo cual se solicita acceder directamente a la aplicación y ejecutarla desde RStudio:
+http://ec2-54-234-91-151.compute-1.amazonaws.com
+Credenciales:
+Usuario: root
+Constraseña: root
+
+
 
